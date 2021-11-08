@@ -13,8 +13,8 @@
 Use the following code to displa logo also:
 
 ```css
-@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/default.css");
-@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/Logo.css");
+@import url("https://cdmaventa.github.io/skynjelly/default.css");
+@import url("https://cdmaventa.github.io/skynjelly/Logo.css");
 ```
 <div class="listCont">
   <h3 align="center"> Features </h3>
@@ -33,32 +33,32 @@ Use the following code to displa logo also:
 <div class="imagesCont">
   <div class="Login">
     <h3 align="center">Login</h3>
-    <img src="https://cdmaventa.github.io/skynjelly/JellyFlix/img/Login.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Login.jpg">
   </div>
   <div class="home">
     <h3 align="center">Home Page</h3>
-    <img src="https://cdmaventa.github.io/skynjelly/JellyFlix/img/Home.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Home.jpg">
   </div>  
   <div class="lib">
     <h3 align="center">Library</h3>
-    <img src="https://prayag17.github.io/JellyFlix/img/Movies.jpg">
-    <img src="https://prayag17.github.io/JellyFlix/img/TV%20Shows.jpg">
-    <img src="https://prayag17.github.io/JellyFlix/img/Collections.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Movies.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/TV%20Shows.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Collections.jpg">
   </div>
   <div class="titleMov">
     <h3 align="center">Movie Title Page</h3>
-    <img src="https://prayag17.github.io/JellyFlix/img/Title%20Page-Movie.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Title%20Page-Movie.jpg">
   </div>
   <div class="titleTv">
     <h3 align="center">TV Show Title page</h3>
-    <img src="https://prayag17.github.io/JellyFlix/img/Title%20Page-TV.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/img/Title%20Page-TV.jpg">
   </div>
   <div class="dia">
   <h3 align="center">Dialogs</h3>
-  <img src="https://prayag17.github.io/JellyFlix/img/Menu.jpg">
-  <img src="https://prayag17.github.io/JellyFlix/img/Dialog-1.jpg">
-  <img src="https://prayag17.github.io/JellyFlix/img/Dialog-2.jpg">
-  <img src="https://prayag17.github.io/JellyFlix/img/Dialog-3.jpg">
+  <img src="https://cdmaventa.github.io/skynjelly/img/Menu.jpg">
+  <img src="https://cdmaventa.github.io/skynjelly/img/Dialog-1.jpg">
+  <img src="https://cdmaventa.github.io/skynjelly/img/Dialog-2.jpg">
+  <img src="https://cdmaventa.github.io/skynjelly/img/Dialog-3.jpg">
   </div>
 </div>
 <br>

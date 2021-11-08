@@ -7,14 +7,14 @@
 
 
 ```css
-@import url("https://prayag17.github.io/JellyFlix/default.css");
+@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/default.css");
 ```
 
 Use the following code to displa logo also:
 
 ```css
-@import url("https://prayag17.github.io/JellyFlix/default.css");
-@import url("https://prayag17.github.io/JellyFlix/Logo.css");
+@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/default.css");
+@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/Logo.css");
 ```
 <div class="listCont">
   <h3 align="center"> Features </h3>
@@ -33,11 +33,11 @@ Use the following code to displa logo also:
 <div class="imagesCont">
   <div class="Login">
     <h3 align="center">Login</h3>
-    <img src="https://prayag17.github.io/JellyFlix/img/Login.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/JellyFlix/img/Login.jpg">
   </div>
   <div class="home">
     <h3 align="center">Home Page</h3>
-    <img src="https://prayag17.github.io/JellyFlix/img/Home.jpg">
+    <img src="https://cdmaventa.github.io/skynjelly/JellyFlix/img/Home.jpg">
   </div>  
   <div class="lib">
     <h3 align="center">Library</h3>

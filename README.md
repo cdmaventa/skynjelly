@@ -7,7 +7,7 @@
 
 
 ```css
-@import url("https://cdmaventa.github.io/skynjelly/JellyFlix/default.css");
+@import url("https://cdmaventa.github.io/skynjelly/default.css");
 ```
 
 Use the following code to displa logo also:
